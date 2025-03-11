@@ -12,6 +12,7 @@ function App() {
         <h1>My First React App on Vite</h1>
       </section>
       <Navbar/>
+      <></>
   </div>
   )
 }
